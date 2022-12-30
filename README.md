@@ -18,7 +18,7 @@ Development Environment: Arduino IDE using RTC <br>
 Language: C/C++
 
 ### Contributors
- - Container and Payload Codes: Hardik Chhabra, Arnav Talwar
+ - Codes: Hardik Chhabra, Arnav Talwar
 
 ## Mechnical CAD
 Software: SolidWorks
