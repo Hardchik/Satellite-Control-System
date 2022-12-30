@@ -1,7 +1,7 @@
 # Kalam-2022-GCS
-This repository contains codes for CanSat'22 Project by NASA where we build a satellite that was launched from Virginia Tech, Blacksburg, US. This repo contains a GUI (Software directory) that is capable of plotting real-time data which it receives from the Satellite during lauch at the Ground Control Station (GCS). Moreover, Arduino codes for the Embedded Systems are present in Electronics directory.<br>
+This repository contains codes for International Space Challenge'22 Project where we build a satellite. This repo contains a GUI (Software directory) that is capable of plotting real-time data which it receives from the Satellite during launch at the Ground Control Station (GCS). Moreover, Arduino codes for the Embedded Systems are present in Electronics directory.<br>
 ## Software Department
-Software Technology Used: Qt Creator for Open Source v5.9.9 <br>
+Software Technology Used: Qt Creator for Open Source v6.0.1 <br>
 Language: C/C++ <br>
 Created by: Hardik Chhabra <br>
 OS: Windows, MacOS
@@ -9,16 +9,13 @@ OS: Windows, MacOS
 ### Screenshot of GUI
 
  - Panel 1
-![image](https://user-images.githubusercontent.com/83291010/150413397-2e356337-a2f1-4bf3-a9a1-818f4a5e1a6b.png)
+![image](https://user-images.githubusercontent.com/83291010/210073048-63119666-0aed-46f8-b6e1-0802d4b6d315.png)
  - Panel 2
-![WhatsApp Image 2022-01-21 at 01 18 21](https://user-images.githubusercontent.com/83291010/150414167-73d763af-b9cf-4e20-8991-56fcbd1767eb.jpeg)
+![image](https://user-images.githubusercontent.com/83291010/210073171-f25baa1b-6285-442c-8b39-ac3e779b8ab9.png)
 
 ## Electronics Department
 Development Environment: Arduino IDE using RTC <br>
 Language: C/C++
 
 ### Contributors
-
- - Payload Codes: Tushar Bhushan
-
- - Container Codes: Hardik Chhabra, Sahil Gupta
+ - Container and Payload Codes: Hardik Chhabra, Sahil Gupta
