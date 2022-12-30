@@ -17,6 +17,9 @@ OS: Windows, MacOS
 Development Environment: Arduino IDE using RTC <br>
 Language: C/C++
 
+### Contributors
+ - Container and Payload Codes: Hardik Chhabra, Sahil Gupta
+
 ## Mechnical CAD
 Software: SolidWorks
 
@@ -26,6 +29,3 @@ Software: SolidWorks
 ![c4](https://user-images.githubusercontent.com/83291010/210074021-f57778fa-0d68-4a88-923e-643727ee4d04.JPG)
  - Satellite 3: GARUDA
 ![sat5](https://user-images.githubusercontent.com/83291010/210074054-1001137f-6f44-4ae3-abf0-d940b5f5741f.JPG)
-
-### Contributors
- - Container and Payload Codes: Hardik Chhabra, Sahil Gupta
